@@ -18,4 +18,4 @@ If you want to make it on your own:
 
 I used [IrFanView](https://www.irfanview.com/) to take the screenshot with the cursor showing the current direction accross the inductor
 
-The Mathematica file contains a numerical simulation of this converter for the reference. Then, the inductor current is approximated by a squared function and the converter is solved analytically. At last, the inductor current is approximated by a linear function as done in the lecture notes for comparison.
+The Mathematica file contains a numerical simulation of this converter for the reference. Then, the inductor current is approximated by a quadratic function and the converter is solved analytically. At last, the inductor current is approximated by a linear function as done in the lecture notes for comparison.
