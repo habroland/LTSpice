@@ -2,5 +2,5 @@ Simulation of buck converter based on these [notes](http://web.stanford.edu/clas
 
 
 <p align="center">
-<img src="Buck.png" width="300" />
+<img src="Buck.png" width="1000" />
 </p>
