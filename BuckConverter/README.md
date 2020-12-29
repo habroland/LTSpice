@@ -12,8 +12,8 @@ In the figure you see the steady state operation of the buck converter. The curr
 
 You will have to download the files and set the correct path for the buck file to find the switch.
 If you want to make it on your own:
-The simulation contains a homemade SPDT switch which I made following [these instructions](https://forum.digikey.com/t/making-switches-in-ltspice-circuit-configurations/3285).
-Note that the voltage-controlled switch "SW" component in LTSpice needs to be configured with a script to let the run know what are the switching parameters. You will  have to do [this](https://www.analog.com/en/technical-articles/ltspiceiv-voltage-controlled-switches.html)
-I made a symbol for this switch as told in the instrucions. You can learn how to make a symbol [in this video](https://www.analog.com/en/education/education-library/videos/5579253506001.html)
+* The simulation contains a homemade SPDT switch which I made following [these instructions](https://forum.digikey.com/t/making-switches-in-ltspice-circuit-configurations/3285).
+* Note that the voltage-controlled switch "SW" component in LTSpice needs to be configured with a script to let the run know what are the switching parameters by doing [this](https://www.analog.com/en/technical-articles/ltspiceiv-voltage-controlled-switches.html)
+* I made a symbol for this switch as told in the instrucions. You can learn how to make a symbol [in this video](https://www.analog.com/en/education/education-library/videos/5579253506001.html)
 
 I used [IrFanView](https://www.irfanview.com/) to take the screenshot with the cursor
